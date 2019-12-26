@@ -1,0 +1,4 @@
+﻿  2 задание.cpp
+C:\Users\TimeTrapper\source\repos\2 задание\2 задание.cpp(29,1): error C2628: недопустимый "point" с последующим "bool" (возможно, отсутствует ";")
+C:\Users\TimeTrapper\source\repos\2 задание\2 задание.cpp(32,16): error C2440: return: невозможно преобразовать "bool" в "point"
+C:\Users\TimeTrapper\source\repos\2 задание\2 задание.cpp(32,16): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно

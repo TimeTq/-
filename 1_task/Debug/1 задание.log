@@ -1,0 +1,3 @@
+﻿  1 задание.cpp
+C:\Users\TimeTrapper\source\repos\1_task\1 задание.cpp(50,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  1 задание.vcxproj -> C:\Users\TimeTrapper\source\repos\1_task\Debug\1 задание.exe
